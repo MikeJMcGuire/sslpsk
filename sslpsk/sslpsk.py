@@ -12,6 +12,8 @@
 #    See the License for the specific language governing permissions and
 #    limitations under the License
 
+# Updated by doronz88, but not yet updated into original repository from drbild
+
 from __future__ import absolute_import
 
 import _ssl
